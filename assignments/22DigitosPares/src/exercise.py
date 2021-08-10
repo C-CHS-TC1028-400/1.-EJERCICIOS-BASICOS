@@ -10,13 +10,13 @@ def main():
     # o aux = num//10
     d2 = aux%10
 
-    #dígito 3
-    aux = int(aux/10)
-    # o aux = aux//10
-    d3 = aux%10
+    #dígito 3 (completar instrucción)
+    
+    # o aux = aux//10 (completar instrucción)
+    
 
-    #dígito 4
-    d4 = int(aux/10)
+    #dígito 4 (completar instrucción)
+   
     # o aux = aux//10
 
     pares = 4-(d1%2+d2%2+d3%2+d4%2)
